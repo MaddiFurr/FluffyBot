@@ -1,5 +1,5 @@
 //Calls inspirobot.me api and makes you feel better about your life
-const request = require("request");
+const request = require("node-fetch");
 const { MessageEmbed } = require('discord.js');
 
 
