@@ -44,7 +44,7 @@ client.on('messageCreate', (message) =>{
     } else {
         console.log(`Command ${command} doe not exist. Informing user.`)
         message.reply({
-            content: "You're funny That command doesn't exist UwU",
+            content: "You're funny! That command doesn't exist UwU",
         })
     }
 
