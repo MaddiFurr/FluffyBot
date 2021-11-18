@@ -1,3 +1,5 @@
+//Gets some very basic server info and puts it in chat
+
 module.exports= {
     name: 'server',
     description: "Get some information about the server",

@@ -1,3 +1,4 @@
+//Fluffy Bot's version of "Ping"
 module.exports= {
     name: 'boop',
     description: "Boop Fluffy's snoot",

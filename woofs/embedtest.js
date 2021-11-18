@@ -1,3 +1,5 @@
+//Used to test discord embeds.
+
 const { MessageEmbed } = require('discord.js');
 
 module.exports= {
